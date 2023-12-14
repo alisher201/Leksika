@@ -70,7 +70,7 @@
           </button> -->
 
           <button @click="toggleModal2" class="bg-white shadow-lg rounded-[18px]">
-            <img src="../../img/asqar.png" alt="" />
+            <img src="" alt="" />
             <h1 class="text-[24px] font-bold mt-5">Alisher Ravshanov </h1>
             <p class="border-b mx-24 my-2 border-[rgba(1,117,108,1)]"></p>
             <p class="text-[#8C8B8B] text-[18px] mb-5">Full-Stack (MERN) Developer</p>
