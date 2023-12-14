@@ -62,16 +62,16 @@
       <div class="flex justify-between mb-20">
         <h1 class="w-full text-[24px] text-[#01756C] font-bold">Our team</h1>
         <div class="flex items-center gap-5 w-[1500px] text-center">
-          <button @click="toggleModal" class="bg-white shadow-lg rounded-[18px]">
+          <!-- <button @click="toggleModal" class="bg-white shadow-lg rounded-[18px]">
             <img src="../../img/akbar.png" alt="" />
             <h1 class="text-[24px] font-bold mt-5">Akbar Kholmuradov</h1>
             <p class="border-b mx-24 my-2 border-[rgba(1,117,108,1)]"></p>
             <p class="text-[#8C8B8B] text-[18px] mb-5">Founder and content manager</p>
-          </button>
+          </button> -->
 
           <button @click="toggleModal2" class="bg-white shadow-lg rounded-[18px]">
             <img src="../../img/asqar.png" alt="" />
-            <h1 class="text-[24px] font-bold mt-5">Asqar Arslonov</h1>
+            <h1 class="text-[24px] font-bold mt-5">Alisher Ravshanov </h1>
             <p class="border-b mx-24 my-2 border-[rgba(1,117,108,1)]"></p>
             <p class="text-[#8C8B8B] text-[18px] mb-5">Full-Stack (MERN) Developer</p>
           </button>
